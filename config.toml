@@ -135,19 +135,6 @@ disableHugoGeneratorInject = false
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     # logoCursorAnimate  = "2s"
 
-  # Commento is more than just a comments widget you can embed — 
-  # it’s a return to the roots of the internet. 
-  # An internet without the tracking and invasions of privacy. 
-  # An internet that is simple and lightweight. 
-  # An internet that is focused on interesting discussions, not ads. 
-  # A better internet.
-  # Uncomment this to enable Commento.
-  #
-  # [params.commento]
-  #   url = ""
-
-  # Uncomment this if you want a portrait on your start page
-  #
   [params.portrait]
     path     = "/img/image.jpg"
     alt      = "Portrait"
@@ -171,8 +158,8 @@ disableHugoGeneratorInject = false
     url  = "https://www.linkedin.com/in/marco-martinez-364461243/"
 
   [[params.social]]
-    name = "stackoverflow"
-    url  = "https://www.stackoverflow.com/"
+    name = "dev"
+    url  = "https://github.com/KMU-Incident-Response"
 
 # [languages]
 #   [languages.en]
