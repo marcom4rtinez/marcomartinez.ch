@@ -136,7 +136,7 @@ disableHugoGeneratorInject = false
     # logoCursorAnimate  = "2s"
 
   [params.portrait]
-    path     = "/img/image.jpg"
+    path     = "/img/image.webp"
     alt      = "Portrait"
     maxWidth = "50px"
 
